@@ -1,90 +1,102 @@
-<h1 align="center">⚡ Sebastian Gutierrez Betancourt ⚡</h1>
+<h1 align="center">Sebastian Gutierrez Betancourt</h1>
 
 <p align="center">
-  <b>Ingeniero de Software | Automatización | Backend | Cloud | AI</b>
+  <b>Automation + AI Engineer | Systems Builder</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlbionDraig">
-    <img src="https://img.shields.io/badge/GitHub-AlbionDraig-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RPA-Automation-0F62FE?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-SQL%20Server-C11F1F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+Diseño sistemas que reducen trabajo manual, integran AI en operaciones reales y convierten procesos en operaciones escalables.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=160&section=header&text=Automation%20%7C%20AI%20%7C%20Scalable%20Systems&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
-</p>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h2>🚀 Sobre mí</h2>
-      <p>
-        Ingeniero de software enfocado en <b>automatización</b>, <b>backend</b>, <b>cloud</b> y soluciones impulsadas por <b>AI</b>.
-      </p>
-      <p>
-        Construyo sistemas que reducen trabajo manual, mejoran la toma de decisiones y escalan eficientemente.
-      </p>
-      <p>
-        Mi enfoque: <b>automatizar, optimizar y potenciar procesos con inteligencia</b>.
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h2>🧠 Mentalidad</h2>
-      <ul>
-        <li>Aprendizaje práctico y rápido</li>
-        <li>Automatización como ventaja competitiva</li>
-        <li>Uso estratégico de AI</li>
-        <li>Sistemas escalables y eficientes</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,aws,azure,mysql,postgres,github" />
+  <b>Disponible para roles:</b> Automation Engineer, AI Integration Engineer, Backend Systems Engineer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-Advanced-C11F1F?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation%20Anywhere-Expert-2E86DE?style=flat-square" />
-  <img src="https://img.shields.io/badge/API%20Integration-Strong-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-RPA-0F62FE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-LLMs-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Systems-F59E0B?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Integration-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Workflows-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Practical-A855F7?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=145&section=header&text=Automation%20%7C%20AI%20%7C%20Systems&fontSize=26&fontColor=FFFFFF"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlbionDraig&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlbionDraig&layout=compact&theme=tokyonight&hide_border=true" />
+## Sobre mi
+
+- Construyo automatizaciones para procesos complejos con enfoque en confiabilidad.
+- Integro AI (LLMs) en flujos de negocio para acelerar decisiones y ejecucion.
+- Desarrollo backend orientado a sistemas mantenibles, observables y escalables.
+- Priorizo resultados operativos: menos friccion, menos errores, mayor velocidad.
+
+## Valor que aporto
+
+- Automatizo operaciones repetitivas que consumen tiempo del equipo.
+- Conecto APIs, datos y servicios cloud en flujos de trabajo de punta a punta.
+- Implemento asistentes y componentes AI para clasificacion, generacion y soporte de decision.
+- Estandarizo procesos para que crezcan sin depender de trabajo manual constante.
+
+## Impacto medible
+
+- Reduccion de tiempo operativo en procesos criticos.
+- Menor tasa de errores manuales en tareas repetitivas.
+- Mayor throughput del equipo mediante automatizacion.
+- Mejor trazabilidad y control de procesos backend.
+
+<!-- Si quieres, puedo convertir esta seccion en resultados con numeros exactos basados en tus proyectos reales. -->
+
+<!--
+## Proyectos destacados
+
+| Proyecto | Problema que resuelve | Stack | Resultado |
+|---|---|---|---|
+| Automation Pipeline | Elimina tareas manuales repetitivas | Python, SQL Server, APIs | Flujo automatizado y trazable |
+| AI Workflow Assistant | Integra AI en decisiones operativas | Python, LLM APIs, Backend | Respuestas mas rapidas y consistentes |
+| Documentation Generator | Estandariza documentacion tecnica | Python, Templates, GitHub | Menos tiempo de documentacion manual |
+
+Puedes reemplazar estos ejemplos por repos concretos y enlaces directos.
+-->
+
+## Stack principal
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,aws,azure,postgres,mysql,github" />
 </p>
 
-<h2 align="center">🎯 Enfoque actual</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RPA-Automatización%20avanzada-0F62FE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Automatización%20inteligente-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Escalabilidad-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Integración-F59E0B?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-Advanced-C11F1F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RPA-Automation%20Anywhere-2E86DE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-LLM%20Integration-8B5CF6?style=flat-square"/>
 </p>
 
-<h2 align="center">⚡ Filosofía</h2>
+## Enfoque actual
+
+- Automatizacion inteligente con AI.
+- Sistemas backend escalables.
+- Integracion de servicios y flujos end-to-end.
+- Arquitecturas orientadas a eficiencia operativa.
+
+## GitHub stats
+
+<p>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlbionDraig&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlbionDraig&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## CTA
+
+Estoy abierto a colaborar en proyectos y roles donde la automatizacion y la AI generen impacto real en operaciones.
+Si estas buscando a alguien para construir sistemas que ahorren tiempo y escalen procesos, conversemos.
+
+---
 
 <p align="center">
-  <i>"No se trata solo de automatizar tareas, sino de construir sistemas inteligentes que tomen ventaja por ti."</i>
+  <i>"No solo escribo codigo. Construyo sistemas que generan ventaja operativa."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=120&section=footer"/>
 </p>
