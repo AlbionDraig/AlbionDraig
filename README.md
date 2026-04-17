@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Construyo soluciones en Python para automatizacion y backend, integrando modelos de AI existentes para documentacion y analisis de datos.
+Construyo soluciones con Python para automatizacion y backend, integrando modelos de AI existentes para documentacion y analisis de datos, con experiencia en contenerizacion con Docker y foco progresivo en AWS y CI/CD.
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@ Construyo soluciones en Python para automatizacion y backend, integrando modelos
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Model%20Integration-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-AWS%20Learning-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge"/>
 </p>
@@ -41,36 +42,47 @@ Construyo soluciones en Python para automatizacion y backend, integrando modelos
 
 - Python es mi lenguaje principal para automatizacion, backend e integraciones.
 - Trabajo en proyectos de integracion de modelos de AI existentes para documentacion y analisis de datos.
+- Tengo experiencia empaquetando y ejecutando soluciones en contenedores con Docker.
 - Estoy aprendiendo cloud con foco actual en AWS para desplegar y escalar soluciones.
 - En CI/CD, actualmente implemento el ciclo de integracion continua con GitHub Actions.
+
+## Actualmente construyendo
+
+- Pipelines en Python para documentacion automatizada asistida por AI.
+- Flujos de analisis de datos con integracion de modelos existentes.
+- Base de despliegue cloud en AWS para evolucionar proyectos locales a entornos productivos.
+- Estandares de CI con GitHub Actions para pruebas y validacion continua.
 
 ## Valor que aporto
 
 - Automatizo operaciones repetitivas para liberar tiempo del equipo y reducir errores manuales.
 - Desarrollo soluciones en Python que conectan APIs, datos y servicios de forma mantenible.
 - Integro capacidades de AI en procesos reales para documentacion automatizada y analisis de datos.
+- Facilito despliegues consistentes mediante contenerizacion con Docker.
 - Construyo bases tecnicas para evolucionar hacia despliegues cloud en AWS y practicas CI/CD mas completas.
 
-## Impacto medible
+## Indicadores actuales
 
-- Reduccion de tiempo operativo en procesos criticos.
-- Menor tasa de errores manuales en tareas repetitivas.
-- Mayor throughput del equipo mediante automatizacion.
-- Mejor trazabilidad y control de procesos backend.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Lenguaje%20principal-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-SQL%20Server%20principal-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Integracion%20de%20modelos-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Uso%20en%20proyectos-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI-GitHub%20Actions%20activo-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Learning%20Path-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 <!-- Si quieres, puedo convertir esta seccion en resultados con numeros exactos basados en tus proyectos reales. -->
 
-<!--
 ## Proyectos destacados
 
-| Proyecto | Problema que resuelve | Stack | Resultado |
-|---|---|---|---|
-| Automation Pipeline | Elimina tareas manuales repetitivas | Python, SQL Server, APIs | Flujo automatizado y trazable |
-| AI Workflow Assistant | Integra AI en decisiones operativas | Python, LLM APIs, Backend | Respuestas mas rapidas y consistentes |
-| Documentation Generator | Estandariza documentacion tecnica | Python, Templates, GitHub | Menos tiempo de documentacion manual |
-
-Puedes reemplazar estos ejemplos por repos concretos y enlaces directos.
--->
+| Proyecto | Rol | Problema que resuelve | Stack | Impacto |
+|---|---|---|---|---|
+| [RPA Doc Generator](https://github.com/AlbionDraig/rpa-doc-generator) | Diseno e implementacion end-to-end de automatizacion documental y analisis de calidad | Automatiza documentacion y analisis de calidad de bots RPA en Automation Anywhere 360 | Python, Automation Anywhere 360, Analisis de calidad | Documentacion estandarizada y evaluacion tecnica mas consistente |
+| [Falabella AI Analyzer](https://github.com/AlbionDraig/falabella_ai_analyzer) | Desarrollo de pipeline de extraccion, analisis y reporte automatico | Extrae y analiza productos de Falabella mediante web scraping y AI para generar reportes automaticos | Python, Web Scraping, Groq AI, Reportes PDF | Reportes PDF con formato limpio y profesional para analisis mas rapido |
 
 ## Stack principal
 
@@ -90,6 +102,7 @@ Puedes reemplazar estos ejemplos por repos concretos y enlaces directos.
 
 - Desarrollo backend y automatizacion con Python como stack principal.
 - Integracion de modelos de AI existentes para documentacion tecnica y analisis de datos.
+- Contenerizacion de servicios con Docker para ejecucion y despliegue consistentes.
 - Aprendizaje practico de AWS para llevar soluciones a entornos cloud.
 - Fortalecimiento del ciclo CI con GitHub Actions como base de CI/CD.
 
@@ -103,11 +116,11 @@ Puedes reemplazar estos ejemplos por repos concretos y enlaces directos.
 ## CTA
 
 <p align="center">
-  Estoy abierto a colaborar en proyectos y roles donde la automatizacion y la AI generen impacto real en operaciones.
+  Disponible para roles de Python Automation, AI Integration y Backend Systems.
 </p>
 
 <p align="center">
-  Si estas buscando a alguien para construir sistemas que ahorren tiempo, conecten servicios y escalen procesos, conversemos.
+  Si buscas reducir carga operativa, integrar AI en procesos reales y construir una base tecnica escalable, conversemos.
 </p>
 
 <p align="center">
