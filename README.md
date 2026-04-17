@@ -20,7 +20,7 @@ Diseño sistemas que reducen trabajo manual, integran AI en operaciones reales y
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=145&section=header&text=Automation%20%7C%20AI%20%7C%20Systems&fontSize=26&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f0404,100:1E3A8A&height=150&section=header&text=Automation%20%7C%20AI%20%7C%20Systems&fontSize=26&fontColor=FFFFFF"/>
 </p>
 
 ---
@@ -62,11 +62,11 @@ Puedes reemplazar estos ejemplos por repos concretos y enlaces directos.
 
 ## Stack principal
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,git,linux,aws,azure,postgres,mysql,github" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-Advanced-C11F1F?style=flat-square"/>
   <img src="https://img.shields.io/badge/RPA-Automation%20Anywhere-2E86DE?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI-LLM%20Integration-8B5CF6?style=flat-square"/>
@@ -81,9 +81,9 @@ Puedes reemplazar estos ejemplos por repos concretos y enlaces directos.
 
 ## GitHub stats
 
-<p>
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlbionDraig&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlbionDraig&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlbionDraig&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&ring_color=2563EB" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlbionDraig&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" />
 </p>
 
 ## CTA
@@ -98,5 +98,5 @@ Si estas buscando a alguien para construir sistemas que ahorren tiempo y escalen
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f0404,100:0F172A&height=150&section=footer"/>
 </p>
