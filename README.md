@@ -81,9 +81,9 @@ Construyo soluciones con Python para automatizacion y backend, integrando modelo
 
 | Proyecto | Rol | Problema que resuelve | Stack | Impacto |
 |---|---|---|---|---|
+| [Atlas Finance](https://github.com/AlbionDraig/AtlasFinance) | Diseno e implementacion full-stack de plataforma de gestion financiera personal | Centraliza cuentas, movimientos, bolsillos e inversiones en una arquitectura modular lista para evolucion SaaS | FastAPI, React, TypeScript, PostgreSQL, Docker, GitHub Actions | Base de producto robusta con calidad integrada (tests, seguridad y CI/CD) |
 | [RPA Doc Generator](https://github.com/AlbionDraig/rpa-doc-generator) | Diseno e implementacion end-to-end de automatizacion documental y analisis de calidad | Automatiza documentacion y analisis de calidad de bots RPA en Automation Anywhere 360 | Python, Automation Anywhere 360, Analisis de calidad | Documentacion estandarizada y evaluacion tecnica mas consistente |
 | [Falabella AI Analyzer](https://github.com/AlbionDraig/falabella_ai_analyzer) | Desarrollo de pipeline de extraccion, analisis y reporte automatico | Extrae y analiza productos de Falabella mediante web scraping y AI para generar reportes automaticos | Python, Web Scraping, Groq AI, Reportes PDF | Reportes PDF con formato limpio y profesional para analisis mas rapido |
-| [Atlas Finance](https://github.com/AlbionDraig/AtlasFinance) | Diseno e implementacion full-stack de plataforma de gestion financiera personal | Centraliza cuentas, movimientos, bolsillos e inversiones en una arquitectura modular lista para evolucion SaaS | FastAPI, React, TypeScript, PostgreSQL, Docker, GitHub Actions | Base de producto robusta con calidad integrada (tests, seguridad y CI/CD) |
 
 ## Stack principal
 
