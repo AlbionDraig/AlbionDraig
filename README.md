@@ -58,11 +58,11 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
+  <img src="https://raw.githubusercontent.com/AlbionDraig/AlbionDraig/profile-cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
 </p>
 <p align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" />
+  <img height="170" src="https://raw.githubusercontent.com/AlbionDraig/AlbionDraig/profile-cards/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/AlbionDraig/AlbionDraig/profile-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" />
 </p>
 
 ---
