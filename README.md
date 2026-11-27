@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f0404,100:1E3A8A&height=160&section=header&text=Sebastian%20Gutierrez%20Betancourt&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Solution%20Engineer%20%C2%B7%20Python%20Automation%20%26%20AI%20%C2%B7%20Tech%20Lead&descAlignY=58&descSize=16" alt="Sebastian Gutierrez Betancourt — Solution Engineer · Python Automation & AI · Tech Lead" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f0404,100:1E3A8A&height=160&section=header&text=Sebastian%20Gutierrez%20Betancourt&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Solution%20Engineer%20%C2%B7%20Python%20Automation%20%2B%20AI%20%C2%B7%20Tech%20Lead&descAlignY=58&descSize=16" alt="Sebastian Gutierrez Betancourt — Solution Engineer · Python Automation & AI · Tech Lead" />
 </p>
 
 <p align="center">
