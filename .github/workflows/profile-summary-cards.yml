@@ -1,5 +1,8 @@
 name: Profile summary cards
 
+# Cards are pushed to the unprotected `profile-cards` branch because `main`
+# requires pull requests. The README references them via raw.githubusercontent.com.
+
 on:
   schedule:
     - cron: "0 6 * * *" # daily, 06:00 UTC
@@ -17,8 +20,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: profile-cards
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: profile-cards
+          THEME: github_dark
+          TIME_ZONE: America/Bogota
